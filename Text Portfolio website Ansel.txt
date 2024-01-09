@@ -3,7 +3,7 @@
 Hello, I'm
 
 .home__name
-Ansel Klee
+Nikhil Tembhare
 
 .home__education
 Frontend Developer
@@ -175,7 +175,7 @@ https://m.me/bedimcode
 
 ========== FOOTER ==========
 .footer__title
-Ansel
+Nikhil
 
 .footer__link
 About
